@@ -1,4 +1,4 @@
-# Spotify-Song-Popularity-Prediction
+# Spotify-Song-Popularity-Prediction using Multiple Linear Regresion
 Determine how well the features explain Popularity of songs on Spotify and Predict Popularity of a song based on these features
 
 Spotify is an audio streaming application that needs no introduction. Over the span of 14 years, it has reached 286 million active users and 130 million premium subscriptions. An average user listens to Spotify for 25 hours a month, 44% of the users dance with their souls through this app on a daily basis. This clearly suggests that for a significant part of the world, Spotify is the go-to address for music.
